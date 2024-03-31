@@ -1,5 +1,5 @@
 ## 👋 Hi there
-I'm applied mathematics of Bauman Moscow State Technical University, student bachelor's degree
+I'm an undergraduate student of applied mathematics at Bauman Moscow State Technical University
 - field of interest: ML, Data Science 
 - Connect with me on [LinkeIn](https://www.linkedin.com/in/maxim-litovchenko-60621a301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 # Skills
